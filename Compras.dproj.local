@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/17 15:50:43.000.214,=C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/17 15:51:52.000.179,C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Desenvolvimento\Ultilitarios\MicroUniverso\MainFrm.dfm</Transaction>
+    <Transaction>2020/11/17 15:51:52.000.179,C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\MainFrm.pas</Transaction>
+    <Transaction>2020/11/17 15:52:46.000.400,C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\AprovacaoNotaCompras.dproj</Transaction>
+    <Transaction>2020/11/17 15:52:56.000.584,C:\Users\Helbert\Documents\Embarcadero\Studio\Projects\AprovacaoNotaCompras.dproj=C:\Desenvolvimento\Ultilitarios\MicroUniverso\AprovacaoNotaCompras.dproj</Transaction>
+    <Transaction>2020/11/17 15:57:26.000.679,C:\Desenvolvimento\Ultilitarios\MicroUniverso\AprovacaoNotaCompras.dproj=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Compras.dproj</Transaction>
+    <Transaction>2020/11/18 03:31:59.000.598,=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/18 03:32:49.000.904,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\ConexaoDtm.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/18 03:32:49.000.904,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\ConexaoDtm.dfm=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.dfm</Transaction>
+    <Transaction>2020/11/18 15:32:51.000.650,=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/18 15:33:09.000.570,C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\funcoes.pas</Transaction>
+    <Transaction>2020/11/18 15:49:48.000.183,=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/18 15:50:13.000.566,C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.dfm=C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\LoginFrm.dfm</Transaction>
+    <Transaction>2020/11/18 15:50:13.000.566,C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\LoginFrm.pas</Transaction>
+    <Transaction>2020/11/19 14:16:50.871,=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/19 14:18:02.372,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\CadUsuaFrm.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/19 14:18:02.372,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\CadUsuaFrm.dfm=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.dfm</Transaction>
+    <Transaction>2020/11/19 15:11:54.499,=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+    <Transaction>2020/11/19 15:12:30.942,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\CadNotasFrm.dfm=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.dfm</Transaction>
+    <Transaction>2020/11/19 15:12:30.942,C:\Desenvolvimento\Ultilitarios\MicroUniverso\fontes\CadNotasFrm.pas=C:\Desenvolvimento\Ultilitarios\MicroUniverso\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

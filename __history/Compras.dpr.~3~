@@ -1,0 +1,16 @@
+program Compras;
+
+uses
+  Vcl.Forms,
+  MainFrm in 'MainFrm.pas' {frmMain},
+  ConexaoDtm in 'fontes\ConexaoDtm.pas' {dmConexao: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TdmConexao, dmConexao);
+  Application.Run;
+end.

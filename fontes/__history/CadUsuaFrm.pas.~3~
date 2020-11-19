@@ -1,0 +1,54 @@
+unit CadUsuaFrm;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, ConexaoDtm, FireDAC.Stan.Intf,
+  FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS,
+  FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt,
+  cxGraphics, cxControls, cxLookAndFeels, cxLookAndFeelPainters, cxContainer,
+  cxEdit, dxSkinsCore, dxSkinsDefaultPainters, cxCurrencyEdit, cxDBEdit,
+  cxTextEdit, cxMaskEdit, cxSpinEdit, Vcl.StdCtrls, Data.DB,
+  FireDAC.Comp.DataSet, FireDAC.Comp.Client, Vcl.ExtCtrls, Vcl.DBCtrls,
+  Vcl.Grids, Vcl.DBGrids;
+
+type
+  TfrmCadUsua = class(TForm)
+    qryUsuario: TFDTable;
+    qryUsuarioid: TFDAutoIncField;
+    qryUsuariologin: TWideStringField;
+    qryUsuariosenha: TWideStringField;
+    qryUsuariopapel: TStringField;
+    qryUsuarioval_min: TBCDField;
+    qryUsuarioval_max: TBCDField;
+    DataSource1: TDataSource;
+    DBGrid1: TDBGrid;
+    DBNavigator1: TDBNavigator;
+    Panel1: TPanel;
+    Label1: TLabel;
+    cxDBSpinEdit1: TcxDBSpinEdit;
+    Label2: TLabel;
+    cxDBTextEdit1: TcxDBTextEdit;
+    Label3: TLabel;
+    cxDBTextEdit2: TcxDBTextEdit;
+    Label4: TLabel;
+    cxDBTextEdit3: TcxDBTextEdit;
+    Label5: TLabel;
+    cxDBCurrencyEdit1: TcxDBCurrencyEdit;
+    Label6: TLabel;
+    cxDBCurrencyEdit2: TcxDBCurrencyEdit;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCadUsua: TfrmCadUsua;
+
+implementation
+
+{$R *.dfm}
+
+end.
